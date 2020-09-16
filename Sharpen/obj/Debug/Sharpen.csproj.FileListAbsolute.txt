@@ -1,0 +1,10 @@
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.csprojAssemblyReference.cache
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.Form1.resources
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.Properties.Resources.resources
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.csproj.GenerateResource.cache
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.csproj.CoreCompileInputs.cache
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\bin\Debug\Sharpen.exe.config
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\bin\Debug\Sharpen.exe
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\bin\Debug\Sharpen.pdb
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.exe
+E:\gITHUBPROJECT\Sharpen\Sharpen\Sharpen\obj\Debug\Sharpen.pdb
