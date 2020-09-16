@@ -1,4 +1,4 @@
-﻿using Form1;
+﻿using Sharpen;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,7 +15,7 @@ namespace Sharpen
     public partial class Form1 : Form
     {
         private Bitmap copy;
-        private olahCitra oc;
+        private olahCitra2 oc;
         public Form1()
         {
             InitializeComponent();
@@ -23,7 +23,7 @@ namespace Sharpen
             toolStripStatusLabelSize.Text = "";
             toolStripProgressBar1.Visible = false;
 
-            oc = new olahCitra(toolStripProgressBar1);
+            oc = new olahCitra2(toolStripProgressBar1);
         }
 
         private void OpenToolStripMenuItem_Click(object sender, EventArgs e)
